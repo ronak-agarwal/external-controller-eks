@@ -17,7 +17,8 @@ There could be many more reasons or scenarios
 ### Some Options below
 
  * OPA Gatekeeper running externally on Lambda 
- ![architecture] (https://github.com/ronak-agarwal/external-controller-eks/blob/master/images/screenshot1.png)
+ 
+ ![architecture](https://github.com/ronak-agarwal/external-controller-eks/blob/master/images/screenshot1.png)
  
  * Fargate Management Cluster to run CA and manage scaling of remote clusters
 # ![architecture] ()
