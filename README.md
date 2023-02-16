@@ -18,10 +18,10 @@ There could be many more reasons or scenarios
 
  * OPA Gatekeeper running externally on Lambda 
  
- ![architecture](https://github.com/ronak-agarwal/external-controller-eks/blob/master/images/screenshot1.png)
+ ![architecture](https://github.com/ronak-agarwal/external-controller-eks/blob/master/images/screenshot3.png)
  
  * Fargate Management Cluster to run CA and manage scaling of remote clusters
-# ![architecture] ()
+ ![architecture](https://github.com/ronak-agarwal/external-controller-eks/blob/master/images/screenshot2.png)
  
  * Use custom solution instead of using CA for scaling EKS nodes - SQS , Lambda, CloudWatch
-# ![architecture] ()
+ ![architecture](https://github.com/ronak-agarwal/external-controller-eks/blob/master/images/screenshot1.png)
